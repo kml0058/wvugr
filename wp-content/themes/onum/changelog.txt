@@ -1,0 +1,69 @@
+Version 1.2.0.7 - 29/10/2020
+- New: Added option color for button in Onum Icon Box
+- New: Add header__clone class in a div after header tag.
+- Fixed: Broken layout on product single page.
+- Fixed: Button widget error line 366
+- Fixed: Box Shadow when change main color in customize.
+- Files Updated: color.php, icon-box.php, button.php, header-mobile.js, style.css
+
+Version 1.2.0.6 - 22/10/2020
+- Fixed: Header static for Header default
+- Files Updated: customizer.php, style.css
+
+Version 1.2.0.5 - 21/10/2020
+- New: Add option color hover for number in Onum Service Slider widget.
+- New: Add option for blog excerpt in Customize -> Blog -> Blog Page and Onum Post Carousel, Onum Post Grid widget
+- Fixed: Fix the logo is cut, logo get full size now.
+- Fixed: Page scroll horizontal on mobile version.
+- Files Updated: customizer.php, content.php, content-search.php, service-carousel.php, logo.php, post-carousel.php, post-grid.php, style.css
+
+Version 1.2.0.3 - 16/10/2020
+- New: Add option Side Panel on Left or Right Side.
+- New: Add option color, spacing for Page Header on Single Blog Post in Appearance -> Customize -> Blog -> Single Post
+- Files Updated: customizer.php, color.php, content-header.php, style.css
+
+Version 1.2.0.2 - 15/10/2020
+- Fixed: Sticky Header for Header default
+- Fixed: Header Logo scroll for Header Solid and Header Transparent
+- Removed: Option Top bar on mobile
+- Files Updated: customizer.php, header-default.php, header-mobile.js, style.css
+
+Version 1.2.0 - 14/10/2020
+- New: Improving Typography
+- New: Header Builder & Mega Menu
+- New: Option the header transperant for a specific page or for all site.
+- New: Typography option for all class css use font family "Red Had Display" & "Red Had Text"
+- New: Add option text stroke in "Onum Counter" widget element
+- New: Add option text stroke in "Onum Heading" widget element
+- New: Add option image size for "Onum Post Grid" widget element
+- New: Add category link in breadcrumbs on single post
+- Add: Style for Button element
+- Add: Style for Pricing Table element
+- Fix: jQuery Migrate Helper in admin-script.js
+- Changed: Change portfolio filter from use category slug to use category id. help filter feature work on all languages.
+- Removed: Remove onum-blog-list-post-thumbnail function and "featured image" display full size on both single post, blog list.
+- Removed: Remove Instagram feed script code in scripts.js file
+- Removed: Option height for Page Header. Use Padding Top and Bottom.
+- Removed: Option header transparent for homepage only. choose header transparent in metaxbox for a specific page or in customize for all site.
+- Removed: fab class in field social in team widget and team-carousel widget.
+- Removed: href attribute in icon-box widget 
+Files Updated: admin-functions.php, content-single.php, template-functions.php, counter.php, script.js, elementor.js, style.css
+
+Version 1.1.8:
+- New added: CSS code in rtl.css
+- Add html code in <?php if ( is_rtl() ) { echo'dir="rtl"'; } ?>: content.php, content-single.php, post-grid.php, post-carousel.php, tab-titles.php, portfolio-carousel.php, team-carousel.php, testimonial-carousel.php
+- Add javascript code rtl: script.js, elementor.js
+- New added: put the wp_body_open() function after the body tag
+- New added: Option link for title, option heading tags for Onum Heading 
+- New added: Option link to title, image for Team Carousel   
+- New added: Option for Related Projects: title, style, etc...
+- New added: Option for display breadcrumbs on single post
+- New added: Option select title html tag for some widget elements
+- Updated: Update .POT language file
+- Improved: Upload icon svg work fine in some widget elements
+- Improved: Preloader Logo
+- Improved: Submenu when hover
+Files Updated: single-ot_portfolio.php, customizer.php, single.php, team-carousel.php, heading.php, icon-box-grid.php, contact-info.php, process-box.php, icon-box.php, message-box.php, 
+tab-titles.php, service-box.php, service-box-2.php, functions.php, preloader.php, style.css.
+
+
