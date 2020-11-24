@@ -1,5 +1,6 @@
 
 //reviewed and edited by mohammed albusaidi
+//created by Jeremy Six, the Java God
 <?php
 
 /** Sets up the WordPress Environment. */
