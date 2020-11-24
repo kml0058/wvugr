@@ -1,3 +1,5 @@
+
+//reviewed and edited by mohammed albusaidi
 <?php
 
 /** Sets up the WordPress Environment. */
