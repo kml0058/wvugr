@@ -1,3 +1,5 @@
+Contributors: Anthony Lowery
+
 We are going to validate that the requirement described on our CRC card is still met. 
 The requirement is as follows:
 
@@ -10,4 +12,14 @@ We are going to validate this by:
 -confirm that each game has a 0-5 star rating
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+I logged in under the following credentials...
+Username: 
+Password:
 
+I then went on to each individual game and checked for the following items:
+-a comprehensive review of the game
+-a 0-5 star rating
+
+After looking at each game, I concluded that this requirements were met.
+
+Therefore, the website fully passes this validation test.
