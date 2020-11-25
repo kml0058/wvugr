@@ -1,1 +1,17 @@
+Because this website utilizes Wordpress and was therefore constructed differently, our testing process is much
+different than other groups.  We found very little in the way of automated testing.  
 
+Our testing process included...
+-defining the purpose of the test
+-the criteria that would need to be met in order to pass the test
+-the process of walking through and verifying that the criteria is met
+
+Two images are included that display the results of two automated tests.  One of them was an overall test of our 
+website and the other checked the integrity of the files of our website.  
+
+The member contributions to each test are shown below:
+Automated Overall Test - Mohammed
+Automated File Integrity Test - Mohammed
+Unit Test - 
+Integration Test - 
+Validation Test - Anthony
