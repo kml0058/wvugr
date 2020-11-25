@@ -1,1 +1,13 @@
+We are going to validate that the requirement described on our CRC card is still met. 
+The requirement is as follows:
+
+“As a user, I want an overall review of the game (accompanied with a rating of 0-5 stars) 
+so that I can quickly see the author's overall opinion of the game as well as read about the good and bad details.”
+------------------------------------------------------------------------------------------------------------------------------------------------------
+We are going to validate this by: 
+-logging into an account made from previous tests 
+-confirm that each game has a comprehensive review
+-confirm that each game has a 0-5 star rating
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
