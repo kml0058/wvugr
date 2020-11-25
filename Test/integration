@@ -1,1 +1,24 @@
+Contributors: Kristoffer Lee
+
+We are going to make sure the user that is signed in directly related to the comments. The requirement is as follows:
+
+“As a user, I want to see my comments with my username attached so that I and others can know that the comment posted was mine.”
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+We are going to test this by:
+-logging into a non-admin account made from previous tests
+-confirm that user can post a comment
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+I logged in under the following credentials:
+Username: milestone5
+Password: Cs230milestone5!
+
+I then went on to check:
+-non logged in users can see the comment
+
+As a non admin user, I was unable to see the comment as it was under moderator review.
+
+After looking at the comments, I concluded that the integration test requirements were met, but changes should be made in how comments are seen. 
+In the future, the comment should not need to be accepted before being able to be seen.
+
+Therefore, the website passes this integration test.
 
