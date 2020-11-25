@@ -8,9 +8,10 @@ so that I can quickly see the author's overall opinion of the game as well as re
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 We are going to validate this by: 
--logging into an account made from previous tests 
+-logging into a non-admin account made from previous tests 
 -confirm that each game has a comprehensive review
 -confirm that each game has a 0-5 star rating
+-confirm that the non-admin user is unable to post review
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -22,6 +23,8 @@ I then went on to each individual game and checked for the following items:
 -a comprehensive review of the game
 -a 0-5 star rating
 
-After looking at each game, I concluded that this requirements were met.
+As this user, which was not an admin, I was unable to post a review to the website.
+
+After looking at each game, I concluded that these requirements were met.
 
 Therefore, the website fully passes this validation test.
