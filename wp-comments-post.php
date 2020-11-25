@@ -4,6 +4,7 @@
  *
  * @package WordPress
  */
+//Authors Kristoffer Lee
 
 if ( 'POST' !== $_SERVER['REQUEST_METHOD'] ) {
 	$protocol = $_SERVER['SERVER_PROTOCOL'];
