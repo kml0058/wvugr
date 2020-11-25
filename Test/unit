@@ -1,1 +1,9 @@
-
+Contributors: Austin Ooten
+We are going to test the following units:
+ -Registering and a proper email is given
+ -Registering and giving an error for a duplicate username
+ -Posting a comment not registered vs posting a comment while registered
+ -Testing the registration processes like proper password length of 8, a special character, and a capital letter is included
+ 
+ 
+ 
